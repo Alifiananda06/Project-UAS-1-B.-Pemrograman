@@ -8,6 +8,9 @@ Kelas: TI.22.A2
 
 ## Program Data Mahasiswa Menggunakan Python
 
+## PDF Code
+file:///C:/Users/ASUS/Videos/Project%20UAS%20Alifia%20Ananda%20Putri%20(312210168)%20TI.22.A2.pdf
+
 ## Deskripsi
 
 File ini berfungsi untuk menginport modul-modul yang dibuat.
