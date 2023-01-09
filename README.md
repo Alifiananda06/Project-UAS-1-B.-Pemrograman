@@ -86,10 +86,10 @@ def cari_data(self):
 Hasil Running Program
 
 
-[gambar1](ss/1.png)
+![gambar1](ss/1.png)
 
 
-[gambar2](ss/2.png)
+![gambar2](ss/2.png)
 
 
 Sekian Terimakasih:)
