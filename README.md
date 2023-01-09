@@ -68,19 +68,33 @@ Modul ini di isi dengan class yang berisi method - method :
 -cari_data() yang mengimport modul inputan dari input_nilai dan mencetak data dari modul view_nilai yang sesuai dengan inputan dari modul input_nilai contoh program:
 
 def tambah_data(self):
+
     # modul input_nilai
+    
     # memasukan input_nilai ke modul data
+    
 def ubah_data(self):
+
     # modul input_nilai
+    
     # pengkondisian jika modul input_nilai di dalam modul data
+    
     # memasukan modul input_nilai baru ke dalam modul data
+    
 def hapus_data(self):
+
     # modul input_nilai
+    
     # pengkondisian jika modul input_nilai di dalam modul data
+    
     # hapus data yang sesuai modul input_nilai
+    
 def cari_data(self):
+
     # modul input_nilai
+    
     # pengkondisian jika modul input_nilai di dalam modul data
+    
     # modul view
 
 Hasil Running Program
