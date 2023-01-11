@@ -8,10 +8,6 @@ Kelas: TI.22.A2
 
 ## Program Data Mahasiswa Menggunakan Python
 
-## PDF 
-
-[Project UAS Alifia Ananda Putri (312210168) TI.22.A2.pdf](https://github.com/Alifiananda06/Project-UAS-1-B.-Pemrograman/files/10374422/Project.UAS.Alifia.Ananda.Putri.312210168.TI.22.A2.pdf)
-
 ## Deskripsi
 
 File ini berfungsi untuk menginport modul-modul yang dibuat.
@@ -109,5 +105,11 @@ Hasil Running Program
 
 ![gambar2](ss/2.png)
 
+
+## PDF 
+
+[Project UAS Alifia Ananda Putri (312210168) TI.22.A2.pdf](https://github.com/Alifiananda06/Project-UAS-1-B.-Pemrograman/files/10374422/Project.UAS.Alifia.Ananda.Putri.312210168.TI.22.A2.pdf)
+
+## Link Youtube
 
 Sekian Terimakasih:)
